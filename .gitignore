@@ -1,5 +1,2 @@
 .env
-customerJourney.csv 
-customers.csv 
-lineitems.csv  
-orders.csv
+*.csv
